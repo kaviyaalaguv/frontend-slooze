@@ -29,7 +29,7 @@ This project is a solution for the Slooze Front-End Take-Home Challenge.
 ### 1️. Clone the repository
 ```bash
 git clone https://github.com/kaviyaalaguv/frontend-slooze.git
-### 2️. Navigate into the project folder
+### **2️. Navigate into the project folder**
 bash
 Copy code
 cd frontend-slooze
