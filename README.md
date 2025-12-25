@@ -26,20 +26,17 @@ This project is a solution for the Slooze Front-End Take-Home Challenge.
 
 ## 🚀 How to Run the Project Locally
 
-### 1️. Clone the repository
-```bash
+1️ Clone the repository
 git clone https://github.com/kaviyaalaguv/frontend-slooze.git
-### **2️. Navigate into the project folder**
-bash
-Copy code
+
+2️ Navigate into the project folder
 cd frontend-slooze
-### 3️. Install dependencies
-bash
-Copy code
+
+3️ Install dependencies
 npm install
-### 4️. Start the development server
-bash
-Copy code
+
+4️ Start the development server
 npm run dev
-### 5. Open in browser
+
+5️⃣ Open in browser
 http://localhost:5173
